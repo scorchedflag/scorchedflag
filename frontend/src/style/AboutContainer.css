@@ -1,0 +1,17 @@
+.about-container {
+    text-align: center;
+    justify-content: center;
+}
+
+.about-photo {
+    justify-content: center;
+    border: 2px solid black;
+    margin-left: 900px;
+    margin-right: 900px;
+}
+
+.about-p {
+    justify-content: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}

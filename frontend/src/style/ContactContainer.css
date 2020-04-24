@@ -1,0 +1,42 @@
+.contact-container {
+    text-align: center;
+}
+
+.contact-form {
+    padding-top: 55px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    row-gap: 30px;
+}
+
+.name-input {
+    display: grid;
+    grid-column: 3 / 4;
+    font-size: 20px;
+    border-radius: 3px 3px;
+    box-shadow: 5px 10px 5px rgb(63, 62, 62);
+}
+
+.email-input {
+    display: grid;
+    grid-column: 3 / 4;
+    font-size: 20px;
+    border-radius: 3px 3px;
+    box-shadow: 5px 10px 5px rgb(63, 62, 62);
+}
+
+.message-input {
+    display: grid;
+    grid-column: 3 / 4;
+    font-size: 20px;
+    border-radius: 3px 3px;
+    box-shadow: 5px 10px 5px rgb(63, 62, 62);
+}
+
+.submit-contact {
+    display: grid;
+    grid-column: 3 / 4;
+    font-size: 20px;
+    border-radius: 3px 3px;
+    
+}
